@@ -15,8 +15,8 @@
 	<project name="musicdsp/audio-drain"/>
 	<project name="musicdsp/audio-river"/>
 	<project name="musicdsp/audio-orchestra"/>
-	<project name="musicdsp/portaudio"/>
-	<project name="musicdsp/speex"/>
-	<project name="musicdsp/speexdsp"/>
-	<project name="musicdsp/ogg"/>
+	<project name="generic-library/portaudio-lutin"/>
+	<project name="generic-library/speex-lutin"/>
+	<project name="generic-library/speex-dsp-lutin"/>
+	<project name="generic-library/ogg-lutin"/>
 </manifest>
